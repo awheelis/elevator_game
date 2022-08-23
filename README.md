@@ -1,4 +1,4 @@
-#Elevator environment for an AI engine 
+# Elevator environment for an AI engine 
 This project was started in 2019, but never finished. </br> 
 There isn't much documentation because, at the time, I was teaching myself Python and AI at the same time. </br>
 
